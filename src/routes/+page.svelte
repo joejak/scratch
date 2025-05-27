@@ -9,6 +9,15 @@
 >
   <button>NEW TAB</button>
 </a>
+
+<a
+  href="/94-pencil-sharpener-instructions.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button>NEW TAB For Download</button>
+</a>
+
 <a
   href="https://rapesco.com/kd733/wp-content/uploads/2022/04/94-pencil-sharpener-instructions.pdf"
 >
