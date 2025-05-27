@@ -1,3 +1,7 @@
+<script>
+    
+</script>
+
 <a
   href="https://rapesco.com/kd733/wp-content/uploads/2022/04/94-pencil-sharpener-instructions.pdf"
   target="_blank"
@@ -11,6 +15,11 @@
   <button> open over </button></a
 >
 
+<a
+  href="/94-pencil-sharpener-instructions.pdf" download="file.pdf"
+>
+  <button>Download </button></a
+>
 <style>
   * {
     color: #1d0707;
