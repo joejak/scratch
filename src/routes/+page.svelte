@@ -29,6 +29,12 @@
 >
   <button>Download </button></a
 >
+
+<a
+  href="/download"
+>
+  <button>Server Direct Call</button></a
+>
 <style>
   * {
     color: #1d0707;
